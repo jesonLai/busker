@@ -1,3 +1,3 @@
 # JVM
 
-![img.png](img.png)
+![img.png](images/img.png)
